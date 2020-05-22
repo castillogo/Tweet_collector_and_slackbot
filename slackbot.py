@@ -9,7 +9,7 @@ import slack
 import pyjokes
 from sqlalchemy import create_engine
 
-oauth_token = 'xoxb-944156563620-1029593474371-o7KS9Tn5un5Zz0XBB4mp9YHN'
+oauth_token = "put here your token"
 
 client = slack.WebClient(token=oauth_token)
 
