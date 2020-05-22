@@ -10,7 +10,7 @@ import slack
 from sqlalchemy import create_engine
 import time
 
-oauth_token = 'xoxb-944156563620-1045188044710-tLnZKVVs1uViMb3V5b77EW6A'
+oauth_token = "insert your own token"
 
 client = slack.WebClient(token=oauth_token)
 
