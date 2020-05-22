@@ -1,0 +1,9 @@
+beautifulsoup4
+folium
+progressbar2
+ijson
+pymongo
+sqlalchemy
+psycopg2-binary
+vaderSentiment
+requests
